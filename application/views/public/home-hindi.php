@@ -17,12 +17,7 @@
                 </div>
             </div>
             <br>
-<div class="listing-slider mfp-gallery-container margin-bottom-0">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/JEI1iv2KZRc" allowfullscreen class="item mfp-gallery" title="1"></iframe>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/TuV9_E3GMCU" allowfullscreen class="item mfp-gallery" title="2"></iframe>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/QYmWHj7BuHk" allowfullscreen class="item mfp-gallery" title="3"></iframe>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/OS6O0cW87-I" allowfullscreen class="item mfp-gallery" title="4"></iframe>
-</div>
+
 
 
 <!-- Info Section -->
