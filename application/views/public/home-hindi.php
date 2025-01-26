@@ -17,7 +17,12 @@
                 </div>
             </div>
             <br>
-
+<div class="listing-slider mfp-gallery-container margin-bottom-0">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/JEI1iv2KZRc" allowfullscreen class="item mfp-gallery" title="1"></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/TuV9_E3GMCU" allowfullscreen class="item mfp-gallery" title="2"></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/QYmWHj7BuHk" allowfullscreen class="item mfp-gallery" title="3"></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/OS6O0cW87-I" allowfullscreen class="item mfp-gallery" title="4"></iframe>
+</div>
 
 
 <!-- Info Section -->
@@ -30,12 +35,7 @@
 		</div>
 		<div class="col-md-12">
 		    <p style="color:#000; margin-bottom: 20px;">आधुनिक तकनीक के कारण, कुछ ही सेकंड में लंबी दूरी पर संचार करना बहुत आसान और सुविधाजनक है। हालांकि, लंबी दूरी की यात्रा करना उतना आसान और सुविधाजनक नहीं है। क्या होगा यदि दूसरे महाद्वीप का कोई व्यक्ति किसी अन्य महाद्वीप में स्थित कंपनी की कार्य क्षमता और सेवाओं को जानना और देखना चाहता है? </p>
-            <div class="listing-slider mfp-gallery-container margin-bottom-0">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/JEI1iv2KZRc" allowfullscreen class="item mfp-gallery" title="1"></iframe>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/TuV9_E3GMCU" allowfullscreen class="item mfp-gallery" title="2"></iframe>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/QYmWHj7BuHk" allowfullscreen class="item mfp-gallery" title="3"></iframe>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/OS6O0cW87-I" allowfullscreen class="item mfp-gallery" title="4"></iframe>
-            </div>
+
             <p style="color:#000; margin-top: 20px;">अपनी कंपनी के काम को प्रदर्शित करने का सबसे अच्छा तरीका कॉर्पोरेट फिल्में, उत्पाद डेमो वीडियो और विज्ञापन फिल्में बनाना है। कॉर्पोरेट वीडियो आपके दर्शकों का ध्यान आकर्षित करने और अपनी बात समझाने का सबसे अच्छा तरीका है। वीडियो उत्पादन में विशेषज्ञों के एक समूह द्वारा स्थापित thejigsaw, मुंबई और नवी मुंबई में एक पेशेवर कॉर्पोरेट वीडियो उत्पादन कंपनी है।</p>
             <p style="color:#000;">कॉरपोरेट फिल्म बनाने के लिए कई अलग-अलग डोमेन में विशेषज्ञता की आवश्यकता होती है। प्रक्रिया क्लाइंट के संक्षिप्त को समझने के साथ शुरू होती है। आमतौर पर यह विश्लेषक, लेखक और निर्देशक की एक टीम द्वारा किया जाता है। एक बार जब वे कॉर्पोरेट फिल्म को संक्षेप में समझ लेते हैं, तो वे विभिन्न विचारों पर विचार-मंथन करते हैं और इसे क्लाइंट के सामने पेश करते हैं। एक विशिष्ट संक्षिप्त पर क्लाइंट के अनुमोदन पर, कॉर्पोरेट वीडियो के लिए स्क्रिप्टिंग शुरू होती है।</p>
             <p style="color:#000;">कॉरपोरेट फिल्म की स्क्रिप्ट पर क्लाइंट की मंजूरी मिलने के बाद, हम पोस्ट-प्रोडक्शन पर काम शुरू करते हैं। इस प्रक्रिया में स्थान, वीडियो-शूट की तारीखों को अंतिम रूप देना, शूटिंग के लिए सभी आवश्यक उपकरण तैयार करना, क्रू के लिए ठहरने, रहने और यात्रा की आवश्यकताओं का ध्यान रखना शामिल है, जो सभी कॉर्पोरेट वीडियो शूट के लिए जिम्मेदार होंगे।</p>
